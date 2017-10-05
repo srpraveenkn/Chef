@@ -1,3 +1,3 @@
 # Chef
 Testing Chef
-just testing
+just testing pull requests
